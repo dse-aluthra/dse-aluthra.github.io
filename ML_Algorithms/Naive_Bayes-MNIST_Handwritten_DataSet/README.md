@@ -1,2 +1,3 @@
 # dse-aluthra.github.io
-Repo for Github Pages 
+Evaluating Classifier
+Regression & Ablation (Feature Extraction) 
