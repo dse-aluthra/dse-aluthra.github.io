@@ -1,2 +1,2 @@
 # dse-aluthra.github.io
-Repo for Github Pages 
+Perceptorn & Support Vector Machine implementation for NewsGroups Categorization
