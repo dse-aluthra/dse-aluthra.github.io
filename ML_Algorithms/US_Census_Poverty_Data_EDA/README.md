@@ -1,2 +1,1 @@
-# dse-aluthra.github.io
-Repo for Github Pages 
+Exploratory Data Analysis on US census bureau, Small Area Income & Poverty Estimates data (Vincent Maps for Geographical Topography geo-data)
